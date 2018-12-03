@@ -1,5 +1,5 @@
 ---
-title: Updating website; Woes Insue!
+title: Updating website; Woes Ensue!
 date: "2018-12-03"
 ---
 
