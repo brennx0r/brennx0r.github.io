@@ -5,7 +5,6 @@ module.exports = {
     description: 'The brennx0r.com blog.',
     siteUrl: 'https://gatsby-starter-blog-demo.netlify.com/',
   },
-  pathPrefix: '/brennx0r.github.io',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
