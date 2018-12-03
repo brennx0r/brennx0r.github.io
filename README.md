@@ -1,11 +1,18 @@
-# gatsby-starter-blog
-Gatsby starter for creating a blog
-
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-
-`gatsby new gatsby-blog https://github.com/gatsbyjs/gatsby-starter-blog`
-
-Or [view the live demo here](https://gatsby-starter-blog-demo.netlify.com/).
+# brennx0r.com site!
 
 ## Running in development
 `gatsby develop`
+
+## Deploying
+
+`npm run-script deploy`
+
+## Troubleshooting
+
+If you cannot deploy and get an error message like this:
+
+> bash
+> fatal: A branch named 'master' already exists.
+
+... what is going on is that the cache for gh-pages needs to be cleared. (Remove files
+from ```node_modules/gh_pages/.cache```).
