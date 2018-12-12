@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[brennx0rblog.]]></title><description><![CDATA[The brennx0r.com blog.]]></description><link>https://gatsby-starter-blog-demo.netlify.com/</link><generator>RSS for Node</generator><lastBuildDate>Wed, 12 Dec 2018 22:52:32 GMT</lastBuildDate><item><title><![CDATA[Bullet-Journaling]]></title><description><![CDATA[A couple months ago I purchased a Cricut Explore Air 2 following the binge watch of YouTube videos showcasing comparisons between various…]]></description><link>https://gatsby-starter-blog-demo.netlify.com//bullet-journaling/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com//bullet-journaling/</guid><pubDate>Wed, 12 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;A couple months ago I purchased a Cricut Explore Air 2 following the binge watch of YouTube videos showcasing comparisons between various models. &lt;a href=&quot;https://www.youtube.com/watch?v=Ch23OY8z5Fo&quot;&gt;This video&lt;/a&gt; was great in doing various tests (cut precision, speed test, sound test) between the machines, which led me to buy the Cricut!&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[brennx0rblog.]]></title><description><![CDATA[The brennx0r.com blog.]]></description><link>https://gatsby-starter-blog-demo.netlify.com/</link><generator>RSS for Node</generator><lastBuildDate>Wed, 12 Dec 2018 23:07:32 GMT</lastBuildDate><item><title><![CDATA[Bullet-Journaling]]></title><description><![CDATA[A couple months ago I purchased a Cricut Explore Air 2 following the binge watch of YouTube videos showcasing comparisons between various…]]></description><link>https://gatsby-starter-blog-demo.netlify.com//bullet-journaling/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com//bullet-journaling/</guid><pubDate>Wed, 12 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;A couple months ago I purchased a Cricut Explore Air 2 following the binge watch of YouTube videos showcasing comparisons between various models. &lt;a href=&quot;https://www.youtube.com/watch?v=Ch23OY8z5Fo&quot;&gt;This video&lt;/a&gt; was great in doing various tests (cut precision, speed test, sound test) between the machines, which led me to buy the Cricut!&lt;/p&gt;
 &lt;p&gt;Yesterday, I decided to unbox it and do a couple of basic projects to better understand the features. &lt;strong&gt;&lt;em&gt;Verdict:&lt;/em&gt;&lt;/strong&gt; It’s an awesome little machine and I’m looking forward to using it for all sorts of different projects.&lt;/p&gt;
 &lt;p&gt;The first big project? Bullet Journaling template stickers!&lt;/p&gt;
 &lt;p&gt;Right now I’m putting together the scaffold of a YouTube video on the subject of effective bullet journaling, which will lead into a quick how-to on creating templates for quickly putting together a new book.&lt;/p&gt;
@@ -15,7 +15,64 @@
     - Draw out the format 
     - Create Template Stickers
     - Move boldly forward&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;I hope that y’all enjoy it once it’s posted.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Updating website; Woes Ensue!]]></title><description><![CDATA[After not updating my site for a couple of months, I was looking to update with a new blog post. As it turns out, I had forgotten the setup…]]></description><link>https://gatsby-starter-blog-demo.netlify.com//updating-site-woes-ensue/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com//updating-site-woes-ensue/</guid><pubDate>Mon, 03 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;After not updating my site for a couple of months, I was looking to update with a new blog post. As it turns out, I had forgotten the setup/layout for the Gatsby starter I was using, so updating it was very difficult. I ended up scrapping the whole thing for another starter template which is much simpler, easier to read and extend.&lt;/p&gt;
+&lt;p&gt;I hope that y’all enjoy it once it’s posted.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[botd]]></title><description><![CDATA[In a Twitter conversation between a couple friends, the topic of 
+“Which Belcher are you?” came up. And clearly, I am Bob. Clearly. This has…]]></description><link>https://gatsby-starter-blog-demo.netlify.com//botd/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com//botd/</guid><pubDate>Wed, 12 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;In a Twitter conversation between a couple friends, the topic of
+“Which Belcher are you?” came up. And clearly, I am Bob. Clearly.&lt;/p&gt;
+&lt;p&gt;This has led to one of the friends in the conversation - @sweetpavement - to
+begin to prompt me for a Burger of the Day (BOTD) each weekday as a tweet.&lt;/p&gt;
+&lt;p&gt;Since this has been going on for longer than a week, I’m finding that an archive
+list is now needed to make sure that I’m not repeating puns, and to showcase
+this sacriliciousness.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;BOTD&lt;/th&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;When I Dip, You Dip, We Dip! Burger&lt;/strong&gt; (Burger with Swiss and onions on a traditional baguette with jus on the side)&lt;/td&gt;
+&lt;td&gt;12/12/2018&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;The Pleased to Meat You Burger&lt;/strong&gt; (3 quarter pound patties - beef, pork, and chorizo - with caramelized onions layered between)&lt;/td&gt;
+&lt;td&gt;12/11/2018&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Curry On My Wayward Burger&lt;/strong&gt; (Panko-ed patty topped with traditional Japanese curry)&lt;/td&gt;
+&lt;td&gt;12/10/2018&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;I Am a Super Fungi Burger&lt;/strong&gt; (Filled with buttery chanterelle and lobster mushrooms and a kiss of swiss cheese)&lt;/td&gt;
+&lt;td&gt;12/7/2018&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;We Make a Great Pear Burger!&lt;/strong&gt; (Super thin slices of pear, crispy applewood smoked bacon)&lt;/td&gt;
+&lt;td&gt;12/6/2018&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Kind of a big dill burger&lt;/strong&gt; (Tzatziki sauce, extra dill, thin sliced tomatoes and cucumbers)&lt;/td&gt;
+&lt;td&gt;12/5/2018&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;The I Do Not Want To Taco Bout It Burger&lt;/strong&gt; (Seasoned patty w/ additional taco meat on top, sharp cheddar, tomato, lettuce, sour cream, and salty tears)&lt;/td&gt;
+&lt;td&gt;12/3/2018&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Nacho ordinary burger!&lt;/strong&gt; (Thin tortilla strips w/ gourmet queso)&lt;/td&gt;
+&lt;td&gt;11/30/2018&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;You Make Miso Happy Burger&lt;/strong&gt; (Hugged by a lattice of bacon and kissed with micro greens)&lt;/td&gt;
+&lt;td&gt;11/29/2018&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;What Goudas around comes around burger&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;11/28/2018&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content:encoded></item><item><title><![CDATA[Updating website; Woes Ensue!]]></title><description><![CDATA[After not updating my site for a couple of months, I was looking to update with a new blog post. As it turns out, I had forgotten the setup…]]></description><link>https://gatsby-starter-blog-demo.netlify.com//updating-site-woes-ensue/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com//updating-site-woes-ensue/</guid><pubDate>Mon, 03 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;After not updating my site for a couple of months, I was looking to update with a new blog post. As it turns out, I had forgotten the setup/layout for the Gatsby starter I was using, so updating it was very difficult. I ended up scrapping the whole thing for another starter template which is much simpler, easier to read and extend.&lt;/p&gt;
 &lt;p&gt;Other woes I ran into had to deal with the npm module &lt;code class=&quot;language-text&quot;&gt;gh-pages&lt;/code&gt;, caching and deployment. In trying to deploy to repo &lt;code class=&quot;language-text&quot;&gt;brennx0r.github.io&lt;/code&gt;, master branch - I kept getting this error:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;bash
