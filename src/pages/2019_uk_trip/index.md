@@ -1,6 +1,6 @@
 ---
 title: Planning Our Recent 2019 UK Trip! 🚀 💂‍♀️
-date: "2019-03-03"
+date: "2019-03-05"
 ---
 
 As you may have seen from recent tweets, Jer and I recently took a trip to the UK. Specifically, London, then Scotland, then back to London. 
