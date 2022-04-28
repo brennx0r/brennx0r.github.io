@@ -9,7 +9,7 @@ After spending a few hours looking at software options, testing them out for my 
 
 ## My Use Case and Desired Outcomes
 
-**VIP:**
+**MVP:**
 - Switch content shared to Twitch
 - Gameplay sound and commentary sound available to Twitch
 
