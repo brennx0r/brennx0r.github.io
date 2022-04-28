@@ -1,6 +1,6 @@
 ---
 title: Setting up Nintendo Switch with Elgato HD60S For Twitch Streaming
-date: "2021-03-31"
+date: "2021-04-28"
 ---
 
 While I've been on sabbatical, I've used the time to revisit and tackle projects that I've been putting off for one reason or another. One project in that list has been to set up my Switch to Stream to Twitch using my home office desk workstation setup so that I can chat with the online community and share my Animal Crossing: New Horizons Island, based on places in Bermuda - including St. David's, Fort St. Catherine, Cupmatch pitch and fan site, the Hamilton Princess spa, and more! 
