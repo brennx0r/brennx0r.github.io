@@ -58,7 +58,7 @@ If any of my story and experience is compelling to you, and you'd like to reach 
 
 ## <a id="what-im-looking-for">🔎 What I'm looking for</a>
 
-In my next adventure, I am looking for an organization that cares about and supports:
+In my next adventure, I want to be a leader in an organization that cares about and supports:
 
 👥 **People.** What is the company strategy and philosophy regarding employee retention and support? What do you value in the interviewing experience? Offer? Pay and Benefits? Career progression and learning? What practices and procedures do you have in support of DEI and healthy cultures? What are the key areas where the company is making investments? 
 
