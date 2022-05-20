@@ -187,4 +187,6 @@ If what I've written resonates with you and you'd like to speak with me about ro
 
 ## <a id="faqs">FAQs</a>
 
-This section is new - as questions are asked, this section will be updated.
+**Are you open to IC roles?**
+
+Not at this time.
