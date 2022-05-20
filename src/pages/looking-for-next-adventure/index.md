@@ -3,7 +3,6 @@ title: 🔭  Looking Towards the Next Adventure
 date: "2021-05-19"
 ---
 
-** **This is a draft - come back later to see the final post once announced on Twitter.** **
 
 After taking a break earlier this year, I am excited to announce that I am officially looking for my next career adventure, interviewing now with the goal of beginning with a company in early CYQ3 this year (August - September preferred).
 
@@ -186,5 +185,6 @@ Below are company deal-breakers - your company goals/interests/policies and mine
 
 If what I've written resonates with you and you'd like to speak with me about roles at your company, <a href="https://calendly.com/brennaflood" target=new>please book time with me to chat</a>! So that I'm prepared for the conversation, please include a little bit about yourself, the role/req, and a little bit about the company. Looking forward to speaking with you. 💜 
 
+## <a id="faqs">FAQs</a>
 
-
+This section is new - as questions are asked, this section will be updated.
