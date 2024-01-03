@@ -43,7 +43,7 @@ module.exports = {
         trackingId: `UA-130934768-1`,
       },
     },
-    `gatsby-plugin-feed`,
+    /* `gatsby-plugin-feed`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -54,8 +54,11 @@ module.exports = {
         theme_color: `#663399`,
         display: `minimal-ui`,
         icon: `src/components/profile-pic.jpg`,
+        feeds: [
+          
+        ],
       },
-    },
+    }, */
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
     {
