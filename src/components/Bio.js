@@ -28,7 +28,7 @@ class Bio extends React.Component {
         />
         <p>
           Written by <strong>Brenna Flood (they/them or she/her)</strong>, software engineering leader and co-organizer of the <a href="http://www.osfeels.com/" target='new'>Open Source and Feelings</a> conference.{' '}
-          <a href="https://mastodon.social/@brennx0r">Follow them on Mastodon</a>. 
+          <a rel="me" git href="https://mastodon.social/@brennx0r">Follow them on Mastodon</a>. 
         </p>
       </div>
     )
